@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-python-charts": {
+      "hosting": {
+        "angular-python-data": [
+          "angular-python-charts"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-python-charts"
+  }
+}
