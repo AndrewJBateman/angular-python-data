@@ -1,4 +1,4 @@
-# Angular Python Data
+# :zap: Angular Python Data
 
 * Angular frontend chart display with a Firestore database storing data via a Python backend
 * **Note:** to open web links in a new window use: _ctrl+click on link_
@@ -10,7 +10,7 @@
 
 ## :page_facing_up: Table of contents
 
-* [Angular Python Data](#angular-python-data)
+* [:zap: Angular Python Data](#zap-angular-python-data)
   * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
   * [:books: General info](#books-general-info)
   * [:camera: Screenshots](#camera-screenshots)
@@ -58,7 +58,7 @@
 * Firebase console: create new project and add Firestore Database
 * Add firebase access credentials to app `environment` files
 * **Frontend:** `ng serve` for a dev server. Navigate to `http://localhost:4200/` - app will automatically reload if you change any of the source files
-* **Backend:** cd `_pythonSensor` then run python `sim.py` to run Python code to generate data points
+* **Backend:** cd `_pythonSensor` then run `python sim.py` to run Python code to generate data points
 * `ng build --prod` for a build folder
 
 ## :flashlight: Testing
